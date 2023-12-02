@@ -41,5 +41,5 @@ wordsNumbers = {"zero": "0",
                 "eight": "8",
                 "nine": "9"}
 
-#print("Part 1: " + str(part1(open("Day1\input.txt", "r"))))
+print("Part 1: " + str(part1(open("Day1\input.txt", "r"))))
 print("Part 2: " + str(part2(open("Day1\input.txt", "r"))))
